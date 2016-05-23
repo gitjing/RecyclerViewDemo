@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RecyclerViewDemo</string>
+    <string name="horizontal">相册</string>
+
+    <string-array name="mainList">
+        <item>水平RecyclerView</item>
+        <item>GridLayoutManager</item>
+        <item>瀑布流</item>
+        <item>模糊的望爱的温柔</item>
+        <item>在你身后</item>
+        <item>陪着你感受</item>
+        <item>爱情的誓言从未想过轻易的放手</item>
+        <item>陪你左右</item>
+        <item>陪你慢慢的走</item>
+        <item>不管你爱我多久</item>
+        <item>不肯放手</item>
+        <item>陪你左右</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
